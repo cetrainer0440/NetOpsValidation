@@ -12,17 +12,16 @@ NetOpsValidation is a Kali Linux lab utility designed to verify the presence of 
 - Kali Linux (VirtualBox or bare-metal)
 - Root privileges
 
+## Educational Purpose
+This tool is intended solely for controlled, offline lab use to demonstrate tool installation, basic diagnostics, and system monitoring techniques.
+Do not run against networks you do not own or have permission to test.
+
 ## Quick Start
 ```bash
 git clone https://github.com/YourUsername/NetOpsValidation.git
 cd NetOpsValidation
 chmod +x NetOpsValidation.sh
 sudo ./NetOpsValidation.sh
-
-Educational Purpose
-This tool is intended solely for controlled, offline lab use to demonstrate tool installation, basic diagnostics, and system monitoring techniques.
-Do not run against networks you do not own or have permission to test.
-
 
 ---
 
